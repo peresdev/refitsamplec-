@@ -1,0 +1,11 @@
+C:\Users\leandro.peres\source\repos\RefitCepSample\RefitCepSample\bin\Debug\netcoreapp2.1\RefitCepSample.deps.json
+C:\Users\leandro.peres\source\repos\RefitCepSample\RefitCepSample\bin\Debug\netcoreapp2.1\RefitCepSample.runtimeconfig.json
+C:\Users\leandro.peres\source\repos\RefitCepSample\RefitCepSample\bin\Debug\netcoreapp2.1\RefitCepSample.runtimeconfig.dev.json
+C:\Users\leandro.peres\source\repos\RefitCepSample\RefitCepSample\bin\Debug\netcoreapp2.1\RefitCepSample.dll
+C:\Users\leandro.peres\source\repos\RefitCepSample\RefitCepSample\obj\Debug\netcoreapp2.1\RefitCepSample.csprojAssemblyReference.cache
+C:\Users\leandro.peres\source\repos\RefitCepSample\RefitCepSample\obj\Debug\netcoreapp2.1\RefitCepSample.csproj.CoreCompileInputs.cache
+C:\Users\leandro.peres\source\repos\RefitCepSample\RefitCepSample\obj\Debug\netcoreapp2.1\RefitCepSample.AssemblyInfoInputs.cache
+C:\Users\leandro.peres\source\repos\RefitCepSample\RefitCepSample\obj\Debug\netcoreapp2.1\RefitCepSample.AssemblyInfo.cs
+C:\Users\leandro.peres\source\repos\RefitCepSample\RefitCepSample\bin\Debug\netcoreapp2.1\RefitCepSample.pdb
+C:\Users\leandro.peres\source\repos\RefitCepSample\RefitCepSample\obj\Debug\netcoreapp2.1\RefitCepSample.dll
+C:\Users\leandro.peres\source\repos\RefitCepSample\RefitCepSample\obj\Debug\netcoreapp2.1\RefitCepSample.pdb
